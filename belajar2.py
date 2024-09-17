@@ -44,3 +44,5 @@ print(burung1.terbang())   # Output: Elang yang berjenis Elang Emas sedang terba
 ikan1 = Ikan("Arwana", 2, "Arwana Hitam")
 print(ikan1.bergerak())
 print(ikan1.berenang())
+
+#nambah ini deh
